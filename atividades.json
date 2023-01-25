@@ -1,0 +1,6456 @@
+[
+ {
+   "tipo": "Caminhar",
+   "data": "2023-01-05 21:54:08",
+   "titulo": "Caminhar",
+   "distancia": 2.55,
+   "tempo": "00:33:35"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2023-01-04 11:39:57",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:35:01"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2023-01-03 21:37:39",
+   "titulo": "Caminhar",
+   "distancia": 2.56,
+   "tempo": "00:33:39"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2023-01-02 15:22:22",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.16,
+   "tempo": "00:45:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2023-01-01 22:52:54",
+   "titulo": "Caminhar",
+   "distancia": 2.53,
+   "tempo": "00:31:42"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-31 12:28:14",
+   "titulo": "Caminhar",
+   "distancia": 2.04,
+   "tempo": "00:46:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-30 09:55:35",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:51:16"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-29 18:26:05",
+   "titulo": "Caminhar",
+   "distancia": 3.52,
+   "tempo": "00:44:35"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-28 11:24:20",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.55,
+   "tempo": "00:54:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-27 14:39:45",
+   "titulo": "Caminhar",
+   "distancia": 2.53,
+   "tempo": "00:39:12"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-26 15:38:08",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.08,
+   "tempo": "01:02:43"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-25 21:59:29",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:31:01"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-24 08:16:23",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:29:53"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-23 21:47:31",
+   "titulo": "Caminhar",
+   "distancia": 2.61,
+   "tempo": "00:33:01"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-22 15:20:41",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.69,
+   "tempo": "00:58:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-21 22:45:17",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:28:40"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-20 21:26:27",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.83,
+   "tempo": "01:03:14"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-18 23:30:11",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:25:30"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-17 17:26:57",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.12,
+   "tempo": "01:01:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-16 22:30:37",
+   "titulo": "Caminhar",
+   "distancia": 3.21,
+   "tempo": "00:35:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-15 14:14:45",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.1,
+   "tempo": "01:01:12"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-14 21:52:05",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:40:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-12 21:49:34",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:31:24"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-11 11:08:21",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.13,
+   "tempo": "01:00:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-10 21:37:02",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:33:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-10 15:08:16",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 0.86,
+   "tempo": "00:13:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-09 22:34:58",
+   "titulo": "Caminhar",
+   "distancia": 2.25,
+   "tempo": "00:27:30"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-08 15:19:51",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.62,
+   "tempo": "01:05:35"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-07 22:06:01",
+   "titulo": "Caminhar",
+   "distancia": 1.71,
+   "tempo": "00:20:42"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-06 15:15:26",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.72,
+   "tempo": "01:06:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-05 22:03:41",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:22:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-04 15:56:45",
+   "titulo": "Caminhar",
+   "distancia": 3.06,
+   "tempo": "00:34:26"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-03 16:06:55",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.1,
+   "tempo": "01:03:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-03 12:40:03",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.08,
+   "tempo": "00:45:52"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-12-02 22:08:51",
+   "titulo": "Caminhar",
+   "distancia": 3.11,
+   "tempo": "00:27:23"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-12-01 15:28:49",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.85,
+   "tempo": "01:03:51"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-30 22:48:14",
+   "titulo": "Caminhar",
+   "distancia": 1.71,
+   "tempo": "00:17:53"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-29 22:24:10",
+   "titulo": "Caminhar",
+   "distancia": 4.11,
+   "tempo": "00:41:35"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-28 22:01:51",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.69,
+   "tempo": "01:06:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-27 23:15:17",
+   "titulo": "Caminhar",
+   "distancia": 5.12,
+   "tempo": "00:54:00"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-25 21:48:32",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.1,
+   "tempo": "01:03:04"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-24 22:50:19",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:27:20"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-23 21:42:43",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.08,
+   "tempo": "01:03:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-22 22:12:52",
+   "titulo": "Caminhar",
+   "distancia": 4.23,
+   "tempo": "00:44:05"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-21 21:25:32",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.11,
+   "tempo": "01:01:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-20 22:06:56",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:21:48"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-19 22:37:21",
+   "titulo": "Caminhar",
+   "distancia": 2.03,
+   "tempo": "00:21:49"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-18 23:02:15",
+   "titulo": "Caminhar",
+   "distancia": 4.02,
+   "tempo": "00:43:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-17 22:00:23",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:27:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-16 22:32:40",
+   "titulo": "Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:39:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-15 21:30:07",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.13,
+   "tempo": "01:00:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-14 20:37:25",
+   "titulo": "Caminhar",
+   "distancia": 3.26,
+   "tempo": "00:34:47"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-13 10:02:40",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.71,
+   "tempo": "01:03:06"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-11 22:04:45",
+   "titulo": "Caminhar",
+   "distancia": 2.65,
+   "tempo": "00:29:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-10 21:46:47",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:28:58"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-09 11:01:42",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.12,
+   "tempo": "00:59:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-08 23:24:08",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:27:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-07 21:44:29",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:20:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-06 15:08:47",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.22,
+   "tempo": "01:06:22"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-05 22:31:17",
+   "titulo": "Caminhar",
+   "distancia": 1.01,
+   "tempo": "00:11:31"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-04 22:16:19",
+   "titulo": "Aveiro Corrida",
+   "distancia": 7.29,
+   "tempo": "00:37:28"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-03 22:03:48",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:28:41"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-11-02 11:36:27",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.62,
+   "tempo": "01:03:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-01 21:12:18",
+   "titulo": "Caminhar",
+   "distancia": 2.04,
+   "tempo": "00:25:51"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-11-01 09:54:01",
+   "titulo": "Caminhar",
+   "distancia": 0.99,
+   "tempo": "00:21:48"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-10-30 16:39:05",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.26,
+   "tempo": "01:06:45"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-10-29 21:51:52",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.16,
+   "tempo": "01:00:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-28 22:10:23",
+   "titulo": "Caminhar",
+   "distancia": 5.03,
+   "tempo": "01:01:14"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-27 23:31:39",
+   "titulo": "Caminhar",
+   "distancia": 1.74,
+   "tempo": "00:18:16"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-26 21:21:44",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:29:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-26 09:08:28",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.18,
+   "tempo": "00:12:43"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-10-25 21:53:12",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.08,
+   "tempo": "01:01:38"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-24 22:03:45",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:24:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-23 23:37:12",
+   "titulo": "Caminhar",
+   "distancia": 3.52,
+   "tempo": "00:37:38"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-20 20:07:30",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:51:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-19 23:29:28",
+   "titulo": "Caminhar",
+   "distancia": 3.41,
+   "tempo": "00:30:53"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-18 22:54:24",
+   "titulo": "Caminhar",
+   "distancia": 1.66,
+   "tempo": "00:21:19"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-10-17 21:39:55",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.1,
+   "tempo": "01:01:13"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-16 21:39:21",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:27:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-16 10:19:22",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.23,
+   "tempo": "00:20:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-15 20:35:07",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.94,
+   "tempo": "00:52:54"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-14 23:04:58",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:31:02"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-13 22:22:34",
+   "titulo": "Caminhar",
+   "distancia": 3.52,
+   "tempo": "00:37:21"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-10-12 09:04:43",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.36,
+   "tempo": "01:01:04"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-11 23:39:32",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:19:54"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-10 18:02:47",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.23,
+   "tempo": "00:41:32"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-10-09 17:16:01",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.1,
+   "tempo": "01:00:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-09 10:30:58",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.23,
+   "tempo": "00:14:04"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-08 22:31:09",
+   "titulo": "Caminhar",
+   "distancia": 3.22,
+   "tempo": "00:35:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-07 22:18:32",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:29:34"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-05 23:33:28",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:24:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-04 23:23:48",
+   "titulo": "Caminhar",
+   "distancia": 2.03,
+   "tempo": "00:20:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-03 23:11:17",
+   "titulo": "Caminhar",
+   "distancia": 2.13,
+   "tempo": "00:21:47"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-10-01 12:47:31",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 0.89,
+   "tempo": "00:08:22.3"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-30 22:35:36",
+   "titulo": "Caminhar",
+   "distancia": 1.51,
+   "tempo": "00:18:56"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-27 21:30:49",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.1,
+   "tempo": "00:55:34"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-25 17:43:18",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.53,
+   "tempo": "00:57:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-22 17:46:42",
+   "titulo": "Aveiro Corrida",
+   "distancia": 9.71,
+   "tempo": "00:54:01"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-21 19:45:16",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.22,
+   "tempo": "00:46:31"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-20 22:01:34",
+   "titulo": "Aveiro Corrida",
+   "distancia": 9.13,
+   "tempo": "00:49:11"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-19 21:41:10",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.53,
+   "tempo": "00:59:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-18 17:43:42",
+   "titulo": "Aveiro Corrida",
+   "distancia": 9.12,
+   "tempo": "00:53:14"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-17 22:57:59",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.54,
+   "tempo": "00:45:38"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-16 11:55:39",
+   "titulo": "Aveiro Corrida",
+   "distancia": 5.03,
+   "tempo": "00:24:40"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-09-16 11:26:27",
+   "titulo": "Jogging",
+   "distancia": 4.08,
+   "tempo": "00:20:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-15 21:23:11",
+   "titulo": "Caminhar",
+   "distancia": 2.83,
+   "tempo": "00:33:22"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-09-14 11:29:28",
+   "titulo": "Base",
+   "distancia": 8.81,
+   "tempo": "00:43:35"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-09-13 12:19:03",
+   "titulo": "Recovery",
+   "distancia": 7.68,
+   "tempo": "00:38:14"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-09-12 14:14:15",
+   "titulo": "Base",
+   "distancia": 8.66,
+   "tempo": "00:43:44"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-09-11 10:55:53",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.02,
+   "tempo": "00:44:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-11 08:54:36",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.25,
+   "tempo": "00:17:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-10 09:15:51",
+   "titulo": "Águeda Caminhar",
+   "distancia": 8.85,
+   "tempo": "02:30:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-09 08:57:04",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.29,
+   "tempo": "00:48:49"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-08 21:25:37",
+   "titulo": "Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:44:42"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-07 19:42:10",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 5.7,
+   "tempo": "00:59:40"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-06 12:48:27",
+   "titulo": "Caminhar",
+   "distancia": 4.11,
+   "tempo": "00:48:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-05 21:48:08",
+   "titulo": "Caminhar",
+   "distancia": 4.22,
+   "tempo": "00:52:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-04 21:10:18",
+   "titulo": "Caminhar",
+   "distancia": 1.53,
+   "tempo": "00:20:34"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-04 11:01:01",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.68,
+   "tempo": "00:41:24"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-03 22:20:39",
+   "titulo": "Caminhar",
+   "distancia": 2.85,
+   "tempo": "00:38:47"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-03 10:32:31",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.25,
+   "tempo": "00:20:38"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-02 21:17:34",
+   "titulo": "Caminhar",
+   "distancia": 4.4,
+   "tempo": "01:00:03"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-01 22:04:50",
+   "titulo": "Caminhar",
+   "distancia": 2.1,
+   "tempo": "00:31:05"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-09-01 17:13:12",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.21,
+   "tempo": "00:15:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-31 16:35:35",
+   "titulo": "Caminhar",
+   "distancia": 2.87,
+   "tempo": "00:49:44"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-28 19:11:10",
+   "titulo": "Caminhar",
+   "distancia": 1.6,
+   "tempo": "00:27:50"
+ },
+ {
+   "tipo": "Pedestrianismo",
+   "data": "2022-08-27 17:44:57",
+   "titulo": "Parada Hiking",
+   "distancia": 3.09,
+   "tempo": "01:32:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-27 10:15:42",
+   "titulo": "Almeida Caminhar",
+   "distancia": 1.77,
+   "tempo": "01:07:46"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-26 17:13:10",
+   "titulo": "Almeida Caminhar",
+   "distancia": 0.53,
+   "tempo": "00:18:18"
+ },
+ {
+   "tipo": "Pedestrianismo",
+   "data": "2022-08-26 09:00:57",
+   "titulo": "PR2 ALM - Hiking",
+   "distancia": 6.16,
+   "tempo": "02:28:48"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-08-24 11:06:30",
+   "titulo": "Jogging",
+   "distancia": 6.01,
+   "tempo": "00:36:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-24 10:38:37",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.16,
+   "tempo": "00:20:30"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-08-23 15:23:04",
+   "titulo": "Jogging",
+   "distancia": 6.02,
+   "tempo": "00:38:42"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-08-22 17:28:57",
+   "titulo": "Jogging",
+   "distancia": 6.01,
+   "tempo": "00:37:43"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-21 23:01:40",
+   "titulo": "Caminhar",
+   "distancia": 2.44,
+   "tempo": "00:32:59"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-20 20:35:05",
+   "titulo": "Caminhar",
+   "distancia": 2,
+   "tempo": "00:22:23"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-19 22:05:46",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 8.4,
+   "tempo": "01:33:21"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-08-19 08:51:15",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.06,
+   "tempo": "01:13:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-08-18 09:46:08",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.2,
+   "tempo": "01:01:56"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-08-17 08:41:32",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.51,
+   "tempo": "01:03:06"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-08-16 08:47:53",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.07,
+   "tempo": "01:13:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-08-15 08:18:45",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.04,
+   "tempo": "00:54:05"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-14 23:11:08",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:24:55"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-13 22:08:36",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:24:05"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-08-12 18:26:07",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.57,
+   "tempo": "01:00:48"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-11 22:20:50",
+   "titulo": "Caminhar",
+   "distancia": 2.34,
+   "tempo": "00:30:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-10 22:47:48",
+   "titulo": "Caminhar",
+   "distancia": 1.53,
+   "tempo": "00:18:19"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-09 17:28:26",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.2,
+   "tempo": "00:54:50"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-08-08 08:50:43",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.01,
+   "tempo": "00:55:28"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-07 21:49:43",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:23:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-06 17:52:01",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.2,
+   "tempo": "01:00:17"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-05 23:14:02",
+   "titulo": "Caminhar",
+   "distancia": 1.6,
+   "tempo": "00:20:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-04 09:52:00",
+   "titulo": "Oliveira do Bairro Caminhar",
+   "distancia": 6.53,
+   "tempo": "02:08:47"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-03 22:40:05",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:30:14"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-08-02 09:08:15",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.9,
+   "tempo": "00:20:53"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-08-02 08:33:09",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.06,
+   "tempo": "00:29:45"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-07-29 10:49:28",
+   "titulo": "Jogging",
+   "distancia": 10,
+   "tempo": "00:54:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-28 23:02:43",
+   "titulo": "Caminhar",
+   "distancia": 1.8,
+   "tempo": "00:20:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-27 17:52:54",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.27,
+   "tempo": "00:39:16"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-27 08:45:24",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.16,
+   "tempo": "00:18:03"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-07-26 17:36:03",
+   "titulo": "Jogging",
+   "distancia": 8.21,
+   "tempo": "00:49:21"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-07-25 09:43:55",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.43,
+   "tempo": "01:01:05"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-24 21:35:45",
+   "titulo": "Caminhar",
+   "distancia": 4.16,
+   "tempo": "00:43:07"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-23 22:19:56",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:22:18"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2022-07-23 17:29:52",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 3.95,
+   "tempo": "00:25:00"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-07-22 11:24:54",
+   "titulo": "Aveiro Corrida",
+   "distancia": 9.62,
+   "tempo": "00:54:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-21 21:22:07",
+   "titulo": "Caminhar",
+   "distancia": 2.41,
+   "tempo": "00:36:48"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-20 17:56:46",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.36,
+   "tempo": "00:31:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-19 20:47:54",
+   "titulo": "Caminhar",
+   "distancia": 2.73,
+   "tempo": "00:24:46"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-18 22:34:58",
+   "titulo": "Caminhar",
+   "distancia": 3.19,
+   "tempo": "00:31:21"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-07-17 15:33:29",
+   "titulo": "Jogging",
+   "distancia": 8.3,
+   "tempo": "00:48:07"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-16 19:02:49",
+   "titulo": "Caminhar",
+   "distancia": 1.42,
+   "tempo": "00:13:47"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-16 18:48:15",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.2,
+   "tempo": "00:12:28"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-14 20:50:43",
+   "titulo": "Caminhar",
+   "distancia": 1.71,
+   "tempo": "00:21:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-13 17:57:35",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.77,
+   "tempo": "00:35:36"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-07-12 13:07:33",
+   "titulo": "Jogging",
+   "distancia": 7.01,
+   "tempo": "00:39:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-11 17:55:11",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.2,
+   "tempo": "00:38:36"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-07-10 16:27:16",
+   "titulo": "Jogging",
+   "distancia": 6.05,
+   "tempo": "00:34:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-09 21:16:22",
+   "titulo": "Caminhar",
+   "distancia": 2.81,
+   "tempo": "00:37:52"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-07-08 11:37:03",
+   "titulo": "Jogging",
+   "distancia": 10.03,
+   "tempo": "00:55:47"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-07 21:53:56",
+   "titulo": "Caminhar",
+   "distancia": 3,
+   "tempo": "00:37:54"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-06 17:55:01",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.27,
+   "tempo": "00:32:10"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-07-06 10:59:26",
+   "titulo": "Jogging",
+   "distancia": 10.04,
+   "tempo": "00:57:03"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-05 21:08:40",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:25:56"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-04 17:47:29",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.05,
+   "tempo": "00:39:48"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-03 21:32:29",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:29:23"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-07-02 14:27:23",
+   "titulo": "Jogging",
+   "distancia": 7.02,
+   "tempo": "00:39:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-07-01 14:26:31",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.06,
+   "tempo": "00:30:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-30 22:32:01",
+   "titulo": "Caminhar",
+   "distancia": 2.81,
+   "tempo": "00:30:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-29 17:53:17",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.12,
+   "tempo": "00:35:36"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-28 15:49:07",
+   "titulo": "Jogging",
+   "distancia": 9.01,
+   "tempo": "00:51:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-28 12:30:48",
+   "titulo": "Caminhar",
+   "distancia": 1.51,
+   "tempo": "00:19:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-27 17:53:24",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.95,
+   "tempo": "00:34:55"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-26 12:54:08",
+   "titulo": "Caminhar",
+   "distancia": 2.53,
+   "tempo": "00:45:47"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-26 10:29:16",
+   "titulo": "Jogging",
+   "distancia": 10.52,
+   "tempo": "00:59:57"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-25 22:00:58",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:34:25"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2022-06-25 16:03:31",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 9.34,
+   "tempo": "00:38:35"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-24 15:50:30",
+   "titulo": "Jogging",
+   "distancia": 10.51,
+   "tempo": "01:00:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-23 21:10:25",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:39:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-22 17:54:19",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.54,
+   "tempo": "00:34:05"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-22 15:17:18",
+   "titulo": "Jogging",
+   "distancia": 10.51,
+   "tempo": "00:59:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-21 22:31:29",
+   "titulo": "Caminhar",
+   "distancia": 4.02,
+   "tempo": "00:47:31"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-20 17:41:23",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.61,
+   "tempo": "00:41:15"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-19 18:26:59",
+   "titulo": "Jogging",
+   "distancia": 8.05,
+   "tempo": "00:44:54"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-17 16:49:25",
+   "titulo": "Jogging",
+   "distancia": 8.04,
+   "tempo": "00:45:19"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-15 11:16:52",
+   "titulo": "Jogging",
+   "distancia": 7.02,
+   "tempo": "00:42:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-14 21:31:29",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:33:10"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-13 17:42:08",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.2,
+   "tempo": "00:25:43"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-12 17:57:03",
+   "titulo": "Jogging",
+   "distancia": 6.74,
+   "tempo": "00:41:01"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-11 18:39:08",
+   "titulo": "Jogging",
+   "distancia": 6.51,
+   "tempo": "00:37:12"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-06-10 16:28:15",
+   "titulo": "Jogging",
+   "distancia": 10.08,
+   "tempo": "00:56:54"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-08 21:31:50",
+   "titulo": "Caminhar",
+   "distancia": 1.7,
+   "tempo": "00:19:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-07 21:25:28",
+   "titulo": "Caminhar",
+   "distancia": 2.31,
+   "tempo": "00:25:30"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-06-06 10:28:30",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.05,
+   "tempo": "01:16:04"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-06 08:50:20",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.32,
+   "tempo": "00:52:13"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-05 21:25:41",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:22:10"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-03 22:24:20",
+   "titulo": "Caminhar",
+   "distancia": 2.74,
+   "tempo": "00:29:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-06-01 17:47:35",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.43,
+   "tempo": "00:42:24"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-31 21:26:33",
+   "titulo": "Caminhar",
+   "distancia": 3.02,
+   "tempo": "00:33:02"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-05-30 09:41:10",
+   "titulo": "Jogging",
+   "distancia": 8.83,
+   "tempo": "00:43:52"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-05-29 10:33:37",
+   "titulo": "Jogging",
+   "distancia": 12.54,
+   "tempo": "01:00:14"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-28 23:11:21",
+   "titulo": "Caminhar",
+   "distancia": 1.53,
+   "tempo": "00:19:06"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-05-27 09:11:43",
+   "titulo": "Jogging",
+   "distancia": 12.33,
+   "tempo": "01:00:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-26 22:03:45",
+   "titulo": "Caminhar",
+   "distancia": 2.61,
+   "tempo": "00:32:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-25 16:22:15",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.31,
+   "tempo": "00:45:12"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-25 08:54:37",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.32,
+   "tempo": "00:44:59"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-24 21:56:53",
+   "titulo": "Caminhar",
+   "distancia": 2.2,
+   "tempo": "00:23:48"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-23 19:11:10",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 5.04,
+   "tempo": "00:57:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-22 14:38:30",
+   "titulo": "Caminhar",
+   "distancia": 2.7,
+   "tempo": "00:41:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-21 13:57:31",
+   "titulo": "Caminhar",
+   "distancia": 2.6,
+   "tempo": "00:35:40"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-21 12:49:32",
+   "titulo": "Caminhar",
+   "distancia": 0.4,
+   "tempo": "00:04:52.8"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-05-20 16:27:14",
+   "titulo": "Jogging",
+   "distancia": 9.09,
+   "tempo": "00:43:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-19 21:17:11",
+   "titulo": "Caminhar",
+   "distancia": 2.8,
+   "tempo": "00:32:50"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-18 19:03:29",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 5.09,
+   "tempo": "00:59:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-17 14:47:32",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:37:57"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-05-16 19:11:08",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 8.79,
+   "tempo": "00:48:42"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-15 21:35:00",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:31:53"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-05-14 17:51:24",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.17,
+   "tempo": "01:00:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-13 17:49:46",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.71,
+   "tempo": "00:30:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-12 21:13:50",
+   "titulo": "Caminhar",
+   "distancia": 2.48,
+   "tempo": "00:28:14"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-05-11 19:03:10",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.31,
+   "tempo": "01:05:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-10 21:34:47",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:21:40"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-05-09 19:02:53",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.15,
+   "tempo": "01:02:02"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-05-08 18:25:42",
+   "titulo": "Jogging",
+   "distancia": 6.01,
+   "tempo": "00:33:30"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-06 21:25:56",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:26:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-05 21:24:05",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:21:53"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-05-04 19:00:14",
+   "titulo": "Ílhavo run",
+   "distancia": 10.72,
+   "tempo": "00:59:07"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-03 22:07:36",
+   "titulo": "Caminhar",
+   "distancia": 2.08,
+   "tempo": "00:20:23"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-05-02 14:11:40",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 8.59,
+   "tempo": "01:33:55"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-30 16:22:10",
+   "titulo": "Jogging",
+   "distancia": 10.02,
+   "tempo": "00:56:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-29 12:51:53",
+   "titulo": "Caminhar",
+   "distancia": 2.69,
+   "tempo": "00:29:52"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-28 19:33:33",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:32:18"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-27 10:45:00",
+   "titulo": "Jogging",
+   "distancia": 10.2,
+   "tempo": "00:54:40"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-26 22:24:55",
+   "titulo": "Caminhar",
+   "distancia": 4.51,
+   "tempo": "00:52:35"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-25 17:59:11",
+   "titulo": "Jogging",
+   "distancia": 10.33,
+   "tempo": "00:54:07"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-24 22:00:08",
+   "titulo": "Caminhar",
+   "distancia": 5,
+   "tempo": "00:55:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-23 19:36:30",
+   "titulo": "Caminhar",
+   "distancia": 4.16,
+   "tempo": "00:48:15"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-22 16:20:38",
+   "titulo": "Jogging",
+   "distancia": 9.93,
+   "tempo": "00:52:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-21 21:29:21",
+   "titulo": "Caminhar",
+   "distancia": 5.02,
+   "tempo": "00:55:45"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-20 17:09:45",
+   "titulo": "Jogging",
+   "distancia": 10.3,
+   "tempo": "00:54:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-19 21:39:26",
+   "titulo": "Caminhar",
+   "distancia": 3.52,
+   "tempo": "00:37:11"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-18 18:35:47",
+   "titulo": "Jogging",
+   "distancia": 8.7,
+   "tempo": "00:45:59"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-17 10:53:18",
+   "titulo": "Jogging",
+   "distancia": 6.21,
+   "tempo": "00:32:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-15 22:13:34",
+   "titulo": "Caminhar",
+   "distancia": 5.02,
+   "tempo": "00:58:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-14 22:20:13",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:38:00"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-13 16:40:07",
+   "titulo": "Jogging",
+   "distancia": 8.4,
+   "tempo": "00:43:47"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-12 12:06:04",
+   "titulo": "Jogging",
+   "distancia": 8.18,
+   "tempo": "00:43:42"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-11 22:23:52",
+   "titulo": "Caminhar",
+   "distancia": 3.52,
+   "tempo": "00:42:19"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-10 17:43:26",
+   "titulo": "Caminhar",
+   "distancia": 1.62,
+   "tempo": "00:19:22"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-09 22:41:17",
+   "titulo": "Caminhar",
+   "distancia": 1.6,
+   "tempo": "00:19:52"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-08 16:33:59",
+   "titulo": "Jogging",
+   "distancia": 10.41,
+   "tempo": "00:54:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-07 21:23:00",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:23:57"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-06 21:28:19",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:34:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-04 22:06:56",
+   "titulo": "Caminhar",
+   "distancia": 1.21,
+   "tempo": "00:14:08"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-04-03 17:43:34",
+   "titulo": "Jogging",
+   "distancia": 8.02,
+   "tempo": "00:44:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-04-01 22:11:22",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:26:42"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-30 16:02:45",
+   "titulo": "Jogging",
+   "distancia": 10.03,
+   "tempo": "00:59:12"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-29 11:27:44",
+   "titulo": "Jogging",
+   "distancia": 11.51,
+   "tempo": "01:05:13"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-27 15:15:51",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.75,
+   "tempo": "00:54:56"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-26 16:31:37",
+   "titulo": "Jogging",
+   "distancia": 12.05,
+   "tempo": "01:05:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-25 23:01:37",
+   "titulo": "Caminhar",
+   "distancia": 2.25,
+   "tempo": "00:21:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-24 22:18:39",
+   "titulo": "Caminhar",
+   "distancia": 2.26,
+   "tempo": "00:21:02"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-23 10:59:23",
+   "titulo": "Jogging",
+   "distancia": 11.21,
+   "tempo": "01:00:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-22 21:40:47",
+   "titulo": "Caminhar",
+   "distancia": 1.52,
+   "tempo": "00:15:05"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-21 16:47:07",
+   "titulo": "Jogging",
+   "distancia": 11.2,
+   "tempo": "01:01:05"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-20 11:29:48",
+   "titulo": "Caminhar",
+   "distancia": 3.26,
+   "tempo": "00:35:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-19 15:08:54",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.75,
+   "tempo": "01:03:06"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-18 10:53:13",
+   "titulo": "Jogging",
+   "distancia": 11.22,
+   "tempo": "01:02:26"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-16 21:38:34",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:37:02"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-15 16:19:16",
+   "titulo": "Jogging",
+   "distancia": 11.21,
+   "tempo": "01:02:12"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-14 16:22:27",
+   "titulo": "Jogging",
+   "distancia": 11.21,
+   "tempo": "01:02:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-13 17:33:25",
+   "titulo": "Caminhar",
+   "distancia": 4.08,
+   "tempo": "00:39:24"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-12 21:28:13",
+   "titulo": "Caminhar",
+   "distancia": 4.15,
+   "tempo": "00:41:28"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-03-11 16:23:58",
+   "titulo": "Jogging",
+   "distancia": 11.21,
+   "tempo": "01:02:12"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-10 19:55:42",
+   "titulo": "Caminhar",
+   "distancia": 2.69,
+   "tempo": "00:27:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-09 21:23:11",
+   "titulo": "Caminhar",
+   "distancia": 1.63,
+   "tempo": "00:16:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-08 21:38:01",
+   "titulo": "Caminhar",
+   "distancia": 2.04,
+   "tempo": "00:19:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-07 21:41:05",
+   "titulo": "Caminhar",
+   "distancia": 1.63,
+   "tempo": "00:15:02"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-06 21:18:36",
+   "titulo": "Caminhar",
+   "distancia": 3.7,
+   "tempo": "00:38:44"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-05 22:13:36",
+   "titulo": "Caminhar",
+   "distancia": 5.02,
+   "tempo": "00:49:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-04 21:31:45",
+   "titulo": "Caminhar",
+   "distancia": 2.66,
+   "tempo": "00:27:54"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-03 21:47:48",
+   "titulo": "Caminhar",
+   "distancia": 2.05,
+   "tempo": "00:22:34"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-03-01 18:38:34",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:41:43"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-28 11:15:38",
+   "titulo": "Jogging",
+   "distancia": 10.07,
+   "tempo": "00:57:51"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-27 21:18:04",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:22:35"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-26 16:44:41",
+   "titulo": "Jogging",
+   "distancia": 10.16,
+   "tempo": "00:59:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-25 21:41:26",
+   "titulo": "Caminhar",
+   "distancia": 3.52,
+   "tempo": "00:33:48"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-24 12:14:16",
+   "titulo": "Caminhar",
+   "distancia": 3.53,
+   "tempo": "00:38:50"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-23 09:05:52",
+   "titulo": "Jogging",
+   "distancia": 10.01,
+   "tempo": "00:56:26"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-22 22:18:02",
+   "titulo": "Caminhar",
+   "distancia": 4.04,
+   "tempo": "00:39:50"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-21 15:29:03",
+   "titulo": "Jogging",
+   "distancia": 10.02,
+   "tempo": "00:55:42"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-20 10:10:01",
+   "titulo": "Caminhar",
+   "distancia": 3.05,
+   "tempo": "01:01:04"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-19 21:42:10",
+   "titulo": "Caminhar",
+   "distancia": 5.11,
+   "tempo": "00:52:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-18 21:13:53",
+   "titulo": "Caminhar",
+   "distancia": 3.2,
+   "tempo": "00:32:52"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-17 11:55:50",
+   "titulo": "Jogging",
+   "distancia": 8.01,
+   "tempo": "00:44:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-16 19:00:54",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 6.33,
+   "tempo": "01:00:48"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-15 12:26:06",
+   "titulo": "Jogging",
+   "distancia": 9.02,
+   "tempo": "00:49:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-14 22:04:23",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:20:47"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-13 16:32:40",
+   "titulo": "Jogging",
+   "distancia": 8.01,
+   "tempo": "00:44:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-13 10:09:24",
+   "titulo": "Caminhar",
+   "distancia": 1.01,
+   "tempo": "00:22:04"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-12 21:45:42",
+   "titulo": "Caminhar",
+   "distancia": 2.05,
+   "tempo": "00:22:51"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-11 11:54:57",
+   "titulo": "Jogging",
+   "distancia": 8.1,
+   "tempo": "00:43:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-10 21:26:17",
+   "titulo": "Caminhar",
+   "distancia": 3.58,
+   "tempo": "00:39:28"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-09 21:30:01",
+   "titulo": "Caminhar",
+   "distancia": 3.02,
+   "tempo": "00:33:30"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-08 21:47:46",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:29:31"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-02-07 19:08:30",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 8.3,
+   "tempo": "00:48:59"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-06 21:15:15",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:23:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-05 18:15:02",
+   "titulo": "Caminhar",
+   "distancia": 2.26,
+   "tempo": "00:44:24"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-02-04 11:46:44",
+   "titulo": "Jogging",
+   "distancia": 8.28,
+   "tempo": "00:43:40"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-03 21:48:34",
+   "titulo": "Caminhar",
+   "distancia": 0.57,
+   "tempo": "00:07:24.8"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-02-02 19:05:35",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.23,
+   "tempo": "00:54:24"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-02-01 21:53:39",
+   "titulo": "Caminhar",
+   "distancia": 3.11,
+   "tempo": "00:32:15"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-31 18:47:35",
+   "titulo": "Jogging",
+   "distancia": 6.18,
+   "tempo": "00:31:24"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-31 13:57:54",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:47:19"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-30 22:12:11",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:23:42"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-30 15:10:18",
+   "titulo": "Jogging",
+   "distancia": 6.2,
+   "tempo": "00:34:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-29 14:47:02",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.62,
+   "tempo": "00:45:46"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-27 17:01:39",
+   "titulo": "Jogging",
+   "distancia": 7.09,
+   "tempo": "00:36:28"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-26 15:35:07",
+   "titulo": "Jogging",
+   "distancia": 9.6,
+   "tempo": "00:49:03"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-25 21:51:12",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:24:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-24 19:16:40",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 3.1,
+   "tempo": "00:32:58"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-23 16:43:01",
+   "titulo": "Jogging",
+   "distancia": 9.03,
+   "tempo": "00:49:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-22 21:46:56",
+   "titulo": "Caminhar",
+   "distancia": 2.81,
+   "tempo": "00:44:56"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-20 10:42:35",
+   "titulo": "Jogging",
+   "distancia": 9.85,
+   "tempo": "00:49:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-19 21:41:31",
+   "titulo": "Caminhar",
+   "distancia": 2.65,
+   "tempo": "00:32:07"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-18 21:53:09",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:26:24"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2022-01-17 19:05:51",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.02,
+   "tempo": "00:59:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-16 21:22:53",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:27:03"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-16 12:09:12",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.14,
+   "tempo": "00:12:49"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-15 21:47:58",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:21:31"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-14 17:17:19",
+   "titulo": "Caminhar",
+   "distancia": 8,
+   "tempo": "00:40:39"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-13 21:40:39",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:21:16"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-12 11:43:01",
+   "titulo": "Jogging",
+   "distancia": 9.01,
+   "tempo": "00:48:50"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-10 17:09:05",
+   "titulo": "Jogging",
+   "distancia": 9.02,
+   "tempo": "00:52:21"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-09 17:45:52",
+   "titulo": "Jogging",
+   "distancia": 9.01,
+   "tempo": "00:49:02"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-08 21:30:20",
+   "titulo": "Caminhar",
+   "distancia": 5.08,
+   "tempo": "00:52:10"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-07 21:37:05",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:27:02"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-06 21:39:04",
+   "titulo": "Caminhar",
+   "distancia": 3.04,
+   "tempo": "00:32:54"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-05 09:13:48",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.28,
+   "tempo": "00:40:51"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2022-01-04 17:09:25",
+   "titulo": "Jogging",
+   "distancia": 8.03,
+   "tempo": "00:43:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-03 14:45:54",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.8,
+   "tempo": "00:34:57"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-02 14:26:45",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.6,
+   "tempo": "00:42:56"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2022-01-01 10:57:19",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.6,
+   "tempo": "00:53:38"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-31 10:42:18",
+   "titulo": "Jogging",
+   "distancia": 6.47,
+   "tempo": "00:34:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-30 22:06:04",
+   "titulo": "Caminhar",
+   "distancia": 3.03,
+   "tempo": "00:36:26"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-12-29 19:08:35",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.56,
+   "tempo": "00:59:30"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-28 21:38:19",
+   "titulo": "Caminhar",
+   "distancia": 4.04,
+   "tempo": "00:48:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-12-27 19:05:22",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.05,
+   "tempo": "01:00:52"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-27 12:15:36",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.1,
+   "tempo": "00:15:19"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-26 17:01:57",
+   "titulo": "Jogging",
+   "distancia": 8.05,
+   "tempo": "00:40:52"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-25 22:42:51",
+   "titulo": "Caminhar",
+   "distancia": 5.01,
+   "tempo": "00:55:55"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-24 16:32:31",
+   "titulo": "Jogging",
+   "distancia": 8.21,
+   "tempo": "00:41:26"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-24 15:21:42",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:27:47"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-23 16:26:51",
+   "titulo": "Jogging",
+   "distancia": 12.02,
+   "tempo": "01:00:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-12-22 19:18:33",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.08,
+   "tempo": "00:45:50"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-21 20:23:19",
+   "titulo": "Caminhar",
+   "distancia": 5.6,
+   "tempo": "01:00:08"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-19 17:43:32",
+   "titulo": "Jogging",
+   "distancia": 8.52,
+   "tempo": "00:43:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-18 14:44:42",
+   "titulo": "Caminhar",
+   "distancia": 2.54,
+   "tempo": "00:32:49"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-17 18:15:04",
+   "titulo": "Jogging",
+   "distancia": 7.88,
+   "tempo": "00:40:23"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-16 21:30:42",
+   "titulo": "Caminhar",
+   "distancia": 5.01,
+   "tempo": "00:53:42"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-12-15 19:01:24",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.53,
+   "tempo": "01:04:44"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-14 21:28:26",
+   "titulo": "Caminhar",
+   "distancia": 5.55,
+   "tempo": "01:00:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-12-13 19:03:57",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.33,
+   "tempo": "01:00:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-12 10:06:31",
+   "titulo": "Caminhar",
+   "distancia": 3.02,
+   "tempo": "00:50:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-11 23:06:01",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:21:53"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-10 17:15:58",
+   "titulo": "Jogging",
+   "distancia": 7.71,
+   "tempo": "00:37:53"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-09 12:04:41",
+   "titulo": "Jogging",
+   "distancia": 8.65,
+   "tempo": "00:43:43"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-08 10:30:35",
+   "titulo": "Jogging",
+   "distancia": 12.02,
+   "tempo": "00:59:21"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-07 21:27:52",
+   "titulo": "Caminhar",
+   "distancia": 5.8,
+   "tempo": "01:00:11"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-12-06 19:12:47",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.24,
+   "tempo": "00:47:56"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-05 15:36:09",
+   "titulo": "Jogging",
+   "distancia": 11.01,
+   "tempo": "00:54:46"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-12-04 17:03:24",
+   "titulo": "Caminhar",
+   "distancia": 5.02,
+   "tempo": "00:51:18"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-03 15:23:04",
+   "titulo": "Jogging",
+   "distancia": 8.52,
+   "tempo": "00:43:44"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-12-02 14:41:04",
+   "titulo": "Jogging",
+   "distancia": 8.51,
+   "tempo": "00:42:28"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-12-01 18:34:43",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.03,
+   "tempo": "01:01:58"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-30 21:53:02",
+   "titulo": "Caminhar",
+   "distancia": 2.7,
+   "tempo": "00:23:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-29 19:12:55",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.65,
+   "tempo": "00:49:39"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-28 10:23:52",
+   "titulo": "Caminhar",
+   "distancia": 5.12,
+   "tempo": "00:50:11"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-26 14:57:07",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.05,
+   "tempo": "00:59:12"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-11-25 11:49:40",
+   "titulo": "Jogging",
+   "distancia": 11.04,
+   "tempo": "00:56:29"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-24 19:01:50",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.51,
+   "tempo": "01:00:24"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-23 21:22:49",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:20:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-22 19:02:12",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:41:50"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-21 10:17:35",
+   "titulo": "Caminhar",
+   "distancia": 4.13,
+   "tempo": "01:00:18"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-20 14:56:23",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.27,
+   "tempo": "01:08:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-19 22:16:32",
+   "titulo": "Caminhar",
+   "distancia": 4.11,
+   "tempo": "00:36:28"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-18 20:01:19",
+   "titulo": "Caminhar",
+   "distancia": 4.18,
+   "tempo": "00:50:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-17 19:05:47",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.39,
+   "tempo": "00:58:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-16 21:39:55",
+   "titulo": "Caminhar",
+   "distancia": 4.14,
+   "tempo": "00:40:06"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-15 19:07:35",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.07,
+   "tempo": "00:55:44"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-14 10:15:37",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:30:37"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-13 15:20:56",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.49,
+   "tempo": "01:06:01"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-11-12 16:40:30",
+   "titulo": "Jogging",
+   "distancia": 9.02,
+   "tempo": "00:50:30"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-11 21:31:00",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:30:57"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-10 18:57:57",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.61,
+   "tempo": "01:07:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-09 19:49:01",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:30:21"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-11-08 18:43:00",
+   "titulo": "Jogging",
+   "distancia": 11.8,
+   "tempo": "01:01:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-07 10:10:43",
+   "titulo": "Caminhar",
+   "distancia": 2.7,
+   "tempo": "00:46:08"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-06 16:36:11",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.45,
+   "tempo": "01:09:07"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-05 15:10:49",
+   "titulo": "Aveiro Corrida",
+   "distancia": 14.09,
+   "tempo": "01:18:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-04 21:21:18",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:21:10"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-03 21:08:24",
+   "titulo": "Caminhar",
+   "distancia": 3.76,
+   "tempo": "00:40:12"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-11-02 21:42:14",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:34:14"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-11-01 14:40:06",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.53,
+   "tempo": "01:08:55"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-10-31 15:33:32",
+   "titulo": "Jogging",
+   "distancia": 9.09,
+   "tempo": "00:47:42"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-10-30 17:56:01",
+   "titulo": "Jogging",
+   "distancia": 11.05,
+   "tempo": "00:56:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-29 18:19:26",
+   "titulo": "Caminhar",
+   "distancia": 5.1,
+   "tempo": "00:46:28"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-28 21:30:14",
+   "titulo": "Caminhar",
+   "distancia": 3.03,
+   "tempo": "00:29:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-27 19:06:24",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.51,
+   "tempo": "00:52:06"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-26 21:49:11",
+   "titulo": "Caminhar",
+   "distancia": 4.02,
+   "tempo": "00:37:33"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-25 19:07:12",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.43,
+   "tempo": "01:01:03"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-24 18:01:20",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.01,
+   "tempo": "01:05:58"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-24 10:11:03",
+   "titulo": "Caminhar",
+   "distancia": 0.9,
+   "tempo": "00:17:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-23 10:18:28",
+   "titulo": "Caminhar",
+   "distancia": 4.11,
+   "tempo": "01:29:23"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-22 17:09:30",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.03,
+   "tempo": "00:51:07"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-21 14:09:58",
+   "titulo": "Caminhar",
+   "distancia": 4.05,
+   "tempo": "00:40:12"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-20 19:12:54",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.03,
+   "tempo": "00:47:17"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-19 21:46:24",
+   "titulo": "Caminhar",
+   "distancia": 4.2,
+   "tempo": "00:36:58"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-18 19:02:49",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.21,
+   "tempo": "00:59:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-17 08:54:50",
+   "titulo": "Vagos Corrida",
+   "distancia": 12.38,
+   "tempo": "01:06:55"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-16 21:18:23",
+   "titulo": "Caminhar",
+   "distancia": 3.52,
+   "tempo": "00:38:11"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-15 17:32:47",
+   "titulo": "Aveiro Corrida",
+   "distancia": 7.53,
+   "tempo": "00:36:49"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-14 08:37:44",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.96,
+   "tempo": "00:34:23"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-13 18:59:39",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.03,
+   "tempo": "01:04:42"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-12 23:41:29",
+   "titulo": "Caminhar",
+   "distancia": 3.35,
+   "tempo": "00:37:11"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-11 19:07:39",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.59,
+   "tempo": "01:00:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-10 11:14:43",
+   "titulo": "Caminhar",
+   "distancia": 2.15,
+   "tempo": "00:34:13"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-09 16:44:54",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.8,
+   "tempo": "01:02:45"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-08 18:59:52",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.61,
+   "tempo": "01:02:49"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-07 09:25:22",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.03,
+   "tempo": "01:06:19"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-06 20:35:55",
+   "titulo": "Caminhar",
+   "distancia": 2.61,
+   "tempo": "00:25:13"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-05 21:09:38",
+   "titulo": "Caminhar",
+   "distancia": 3.21,
+   "tempo": "00:33:56"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-04 17:39:53",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.14,
+   "tempo": "00:51:07"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-10-03 10:09:56",
+   "titulo": "Caminhar",
+   "distancia": 5.01,
+   "tempo": "01:06:52"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-10-01 19:11:18",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.61,
+   "tempo": "00:50:01"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-29 19:06:38",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 3.3,
+   "tempo": "00:38:10"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-28 21:16:22",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:24:22"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-27 19:06:20",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 4.27,
+   "tempo": "00:45:49"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-26 09:57:42",
+   "titulo": "Caminhar",
+   "distancia": 3.02,
+   "tempo": "00:45:46"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-25 17:41:49",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.71,
+   "tempo": "01:06:21"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-24 19:10:48",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.52,
+   "tempo": "00:59:50"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-23 21:34:28",
+   "titulo": "Caminhar",
+   "distancia": 3.54,
+   "tempo": "00:37:01"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-22 19:02:04",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.18,
+   "tempo": "01:00:35"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-21 19:39:29",
+   "titulo": "Caminhar",
+   "distancia": 2.68,
+   "tempo": "00:28:52"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-20 19:06:48",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.19,
+   "tempo": "01:00:40"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-19 10:06:00",
+   "titulo": "Caminhar",
+   "distancia": 3.53,
+   "tempo": "00:55:58"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-18 21:52:27",
+   "titulo": "Caminhar",
+   "distancia": 2.8,
+   "tempo": "00:30:04"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-17 19:07:00",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.36,
+   "tempo": "00:58:31"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-16 20:07:22",
+   "titulo": "Caminhar",
+   "distancia": 3.63,
+   "tempo": "00:42:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-15 18:24:33",
+   "titulo": "Caminhar",
+   "distancia": 2.03,
+   "tempo": "00:23:38"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-14 21:46:44",
+   "titulo": "Caminhar",
+   "distancia": 3.53,
+   "tempo": "00:35:58"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-13 19:07:14",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.7,
+   "tempo": "00:55:54"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-12 22:26:19",
+   "titulo": "Caminhar",
+   "distancia": 3.52,
+   "tempo": "00:35:16"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-11 17:27:47",
+   "titulo": "Aveiro Corrida",
+   "distancia": 15.15,
+   "tempo": "01:21:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-10 19:11:07",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.06,
+   "tempo": "00:56:30"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-09 22:04:46",
+   "titulo": "Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:43:46"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-08 19:05:21",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.4,
+   "tempo": "01:02:51"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-07 18:43:16",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:56:01"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-06 19:04:07",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.1,
+   "tempo": "00:56:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-05 19:12:27",
+   "titulo": "Caminhar",
+   "distancia": 5.01,
+   "tempo": "00:49:53"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-04 17:26:21",
+   "titulo": "Aveiro Corrida",
+   "distancia": 14.01,
+   "tempo": "01:13:04"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-03 19:15:27",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.06,
+   "tempo": "00:52:12"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-09-02 21:55:36",
+   "titulo": "Caminhar",
+   "distancia": 2.16,
+   "tempo": "00:20:04"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-09-01 19:21:44",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.69,
+   "tempo": "00:48:12"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-08-31 20:48:32",
+   "titulo": "Jogging",
+   "distancia": 6.06,
+   "tempo": "00:30:57"
+ },
+ {
+   "tipo": "Pedestrianismo",
+   "data": "2021-08-30 10:53:48",
+   "titulo": "Terras de Bouro Navigate",
+   "distancia": 3.86,
+   "tempo": "03:50:52"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-29 19:21:35",
+   "titulo": "Terras de Bouro Caminhar",
+   "distancia": 4.06,
+   "tempo": "00:58:35"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-28 23:24:40",
+   "titulo": "Caminhar",
+   "distancia": 3.5,
+   "tempo": "00:34:41"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-27 09:53:41",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.11,
+   "tempo": "01:11:09"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-26 09:36:29",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.11,
+   "tempo": "01:15:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-25 09:33:28",
+   "titulo": "Aveiro Corrida",
+   "distancia": 15.1,
+   "tempo": "01:26:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-24 19:33:45",
+   "titulo": "Caminhar",
+   "distancia": 2.53,
+   "tempo": "00:25:03"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-23 09:55:30",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.08,
+   "tempo": "01:14:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-22 19:29:27",
+   "titulo": "Caminhar",
+   "distancia": 3.53,
+   "tempo": "00:40:44"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-21 16:21:01",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.54,
+   "tempo": "00:30:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-21 10:08:16",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.66,
+   "tempo": "00:19:40"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-21 09:35:05",
+   "titulo": "Aveiro Corrida",
+   "distancia": 5.32,
+   "tempo": "00:32:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-20 18:21:21",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:52:33"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-20 08:23:44",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.39,
+   "tempo": "01:16:29"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-08-19 19:23:55",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 8.73,
+   "tempo": "00:34:40"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-19 09:35:00",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.39,
+   "tempo": "01:16:28"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-18 10:01:57",
+   "titulo": "Aveiro Corrida",
+   "distancia": 15.29,
+   "tempo": "01:27:13"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-17 09:34:31",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.14,
+   "tempo": "01:15:31"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-16 14:12:10",
+   "titulo": "Caminhar",
+   "distancia": 3,
+   "tempo": "01:23:52"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-16 09:29:17",
+   "titulo": "Aveiro Corrida",
+   "distancia": 15.71,
+   "tempo": "01:22:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-15 15:45:22",
+   "titulo": "Bombarral Caminhar",
+   "distancia": 1.79,
+   "tempo": "01:09:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-14 22:19:48",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:23:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-13 17:05:37",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.25,
+   "tempo": "01:12:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-12 10:23:07",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.28,
+   "tempo": "01:11:42"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-11 18:48:09",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:54:07"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-08-10 16:51:42",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 14.02,
+   "tempo": "01:17:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-10 11:15:12",
+   "titulo": "Estarreja Rio Jardim ",
+   "distancia": 1.84,
+   "tempo": "00:51:57"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-09 17:08:58",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.05,
+   "tempo": "01:12:26"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-08 15:42:43",
+   "titulo": "Albergaria-a-Velha Caminhar",
+   "distancia": 3.82,
+   "tempo": "01:39:13"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-08 10:16:58",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.22,
+   "tempo": "01:26:35"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-07 15:47:17",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 5.09,
+   "tempo": "01:01:32"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-06 17:55:24",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.25,
+   "tempo": "01:13:22"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-05 22:09:14",
+   "titulo": "Caminhar",
+   "distancia": 4.03,
+   "tempo": "00:45:05"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-08-05 17:44:18",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 9,
+   "tempo": "00:52:59"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-08-04 18:27:04",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.05,
+   "tempo": "01:12:30"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-04 17:00:58",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.5,
+   "tempo": "00:29:16"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-02 19:37:04",
+   "titulo": "Caminhar",
+   "distancia": 1.64,
+   "tempo": "00:15:26"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-08-01 14:51:01",
+   "titulo": "Torres Vedras Caminhar",
+   "distancia": 3.7,
+   "tempo": "00:47:24"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-07-30 17:31:58",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 4.58,
+   "tempo": "00:22:00"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-30 09:08:49",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.54,
+   "tempo": "01:20:11"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-07-29 17:33:38",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 4.78,
+   "tempo": "00:22:35"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-29 09:09:14",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.5,
+   "tempo": "01:20:10"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-07-28 17:25:40",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 4.87,
+   "tempo": "00:29:10"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-28 09:16:45",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.12,
+   "tempo": "01:15:45"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-07-27 11:07:29",
+   "titulo": "Jogging",
+   "distancia": 12,
+   "tempo": "01:04:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-26 18:53:48",
+   "titulo": "Caminhar",
+   "distancia": 3.68,
+   "tempo": "00:35:26"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-25 09:48:40",
+   "titulo": "Vagos Corrida",
+   "distancia": 12.02,
+   "tempo": "01:06:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-24 18:10:59",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 5.1,
+   "tempo": "01:07:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-24 15:19:45",
+   "titulo": "Vagos Corrida",
+   "distancia": 10.03,
+   "tempo": "00:55:33"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-23 19:24:50",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 2.88,
+   "tempo": "00:37:49"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-22 14:32:44",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 6.13,
+   "tempo": "01:07:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-21 19:09:51",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.06,
+   "tempo": "00:48:44"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-19 19:02:51",
+   "titulo": "Ílhavo Caminhar",
+   "distancia": 4.23,
+   "tempo": "00:45:56"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-18 18:25:48",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.58,
+   "tempo": "00:46:07"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-17 18:03:36",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.14,
+   "tempo": "00:54:00"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-16 19:07:59",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.13,
+   "tempo": "00:51:43"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-15 21:51:28",
+   "titulo": "Caminhar",
+   "distancia": 3.02,
+   "tempo": "00:37:35"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-14 22:41:03",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:23:34"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-13 18:36:17",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.8,
+   "tempo": "00:30:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-12 19:09:03",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.36,
+   "tempo": "01:01:37"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-11 16:57:29",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.68,
+   "tempo": "01:07:24"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-10 18:08:48",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.28,
+   "tempo": "00:57:03"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-09 21:51:21",
+   "titulo": "Caminhar",
+   "distancia": 3.19,
+   "tempo": "00:31:12"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-08 21:33:57",
+   "titulo": "Caminhar",
+   "distancia": 4.09,
+   "tempo": "00:39:32"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-07-07 19:09:06",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.83,
+   "tempo": "00:56:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-06 22:31:45",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:25:16"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-05 22:33:59",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:30:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-04 21:39:06",
+   "titulo": "Caminhar",
+   "distancia": 2.55,
+   "tempo": "00:26:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-03 22:12:57",
+   "titulo": "Caminhar",
+   "distancia": 2.04,
+   "tempo": "00:19:58"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-07-02 23:29:47",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:20:13"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-30 19:05:43",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.71,
+   "tempo": "00:56:06"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-29 21:29:27",
+   "titulo": "Caminhar",
+   "distancia": 5.04,
+   "tempo": "00:55:43"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-28 19:05:38",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.8,
+   "tempo": "01:02:36"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-06-27 20:27:36",
+   "titulo": "Jogging",
+   "distancia": 8.1,
+   "tempo": "00:41:51"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-26 19:18:26",
+   "titulo": "Caminhar",
+   "distancia": 2.56,
+   "tempo": "00:31:52"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-25 23:19:30",
+   "titulo": "Caminhar",
+   "distancia": 2.11,
+   "tempo": "00:26:26"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-23 18:56:02",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.74,
+   "tempo": "01:07:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-22 18:07:51",
+   "titulo": "Caminhar",
+   "distancia": 2.21,
+   "tempo": "00:30:10"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-21 19:03:31",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.07,
+   "tempo": "01:06:09"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-20 16:52:33",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.74,
+   "tempo": "01:13:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-19 22:57:38",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:34:13"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-18 22:24:58",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:35:19"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-17 23:26:36",
+   "titulo": "Caminhar",
+   "distancia": 2.32,
+   "tempo": "00:27:55"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-16 19:04:22",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.14,
+   "tempo": "01:03:53"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-15 22:07:44",
+   "titulo": "Caminhar",
+   "distancia": 2.74,
+   "tempo": "00:37:32"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-14 19:00:29",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.12,
+   "tempo": "01:05:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-13 20:28:42",
+   "titulo": "Caminhar",
+   "distancia": 1.67,
+   "tempo": "00:24:43"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-13 18:29:56",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.34,
+   "tempo": "00:49:05"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-12 17:48:47",
+   "titulo": "Aveiro Corrida",
+   "distancia": 15.05,
+   "tempo": "01:29:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-11 22:32:42",
+   "titulo": "Caminhar",
+   "distancia": 3.03,
+   "tempo": "00:35:48"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-10 18:10:02",
+   "titulo": "Aveiro Corrida",
+   "distancia": 9.29,
+   "tempo": "00:49:35"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-09 19:06:35",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.14,
+   "tempo": "01:03:47"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-08 21:55:37",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:20:57"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-07 19:05:43",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.67,
+   "tempo": "01:01:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-06 23:27:23",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:20:39"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-05 17:50:46",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.68,
+   "tempo": "01:11:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-04 21:57:11",
+   "titulo": "Caminhar",
+   "distancia": 5.02,
+   "tempo": "00:50:50"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-03 21:56:38",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:32:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-06-02 18:59:53",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 13.69,
+   "tempo": "01:07:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-06-01 22:18:02",
+   "titulo": "Caminhar",
+   "distancia": 2.65,
+   "tempo": "00:29:07"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-31 19:08:58",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.74,
+   "tempo": "00:54:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-31 13:50:30",
+   "titulo": "Caminhar",
+   "distancia": 4.61,
+   "tempo": "00:52:18"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-30 16:39:24",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.28,
+   "tempo": "01:02:49"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-30 10:22:28",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.65,
+   "tempo": "00:50:02"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-29 22:38:23",
+   "titulo": "Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:42:14"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-29 17:25:59",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.17,
+   "tempo": "01:13:01"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-28 23:41:54",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:38:07"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-27 14:05:47",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.53,
+   "tempo": "01:13:30"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-26 08:35:05",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.31,
+   "tempo": "01:07:05"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-25 20:45:06",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:21:08"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-23 17:32:30",
+   "titulo": "Aveiro Corrida",
+   "distancia": 15.08,
+   "tempo": "01:23:20"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-05-23 09:56:47",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 11.24,
+   "tempo": "00:49:58"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-22 17:55:08",
+   "titulo": "Aveiro Corrida",
+   "distancia": 3.56,
+   "tempo": "00:18:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-21 22:59:12",
+   "titulo": "Caminhar",
+   "distancia": 2.2,
+   "tempo": "00:22:36"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-20 14:10:33",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.42,
+   "tempo": "00:51:39"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-19 19:10:43",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.38,
+   "tempo": "00:58:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-18 21:56:09",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:29:25"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-17 19:21:27",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.46,
+   "tempo": "00:48:22"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-16 21:29:48",
+   "titulo": "Caminhar",
+   "distancia": 2.06,
+   "tempo": "00:20:05"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-15 16:52:45",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.52,
+   "tempo": "01:13:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-14 23:10:08",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:22:56"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-13 14:24:51",
+   "titulo": "Caminhar",
+   "distancia": 3.02,
+   "tempo": "00:31:00"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-12 19:09:53",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.15,
+   "tempo": "01:02:05"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-10 19:07:29",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.32,
+   "tempo": "00:59:31"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-09 21:17:37",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:19:26"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-08 15:24:05",
+   "titulo": "Vagos Corrida",
+   "distancia": 10.83,
+   "tempo": "00:58:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-07 21:55:03",
+   "titulo": "Caminhar",
+   "distancia": 5.04,
+   "tempo": "00:50:01"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-06 13:46:41",
+   "titulo": "Caminhar",
+   "distancia": 4.51,
+   "tempo": "00:42:44"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-05 19:06:07",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.44,
+   "tempo": "01:01:56"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-04 22:10:29",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:25:31"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-03 19:09:21",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.26,
+   "tempo": "01:02:17"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-05-02 15:16:35",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.59,
+   "tempo": "00:49:24"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-05-02 10:48:46",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 11.23,
+   "tempo": "00:55:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-05-01 18:08:09",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.17,
+   "tempo": "00:58:14"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-30 20:39:10",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:21:57"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-29 13:22:47",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.71,
+   "tempo": "00:56:17"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-28 18:53:51",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 13.33,
+   "tempo": "01:06:39"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-27 22:01:45",
+   "titulo": "Caminhar",
+   "distancia": 1.63,
+   "tempo": "00:15:52"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-26 19:10:23",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.43,
+   "tempo": "00:59:43"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-25 09:54:11",
+   "titulo": "Caminhar",
+   "distancia": 5.11,
+   "tempo": "01:00:05"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-04-24 17:11:19",
+   "titulo": "Jogging",
+   "distancia": 12.13,
+   "tempo": "00:59:45"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-04-22 09:01:37",
+   "titulo": "Jogging",
+   "distancia": 12.13,
+   "tempo": "01:01:59"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-04-21 18:29:14",
+   "titulo": "Jogging",
+   "distancia": 6.2,
+   "tempo": "00:30:41"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-20 23:17:25",
+   "titulo": "Caminhar",
+   "distancia": 1.61,
+   "tempo": "00:20:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-19 19:14:58",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 10.18,
+   "tempo": "00:52:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-18 18:11:26",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:36:44"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-04-18 10:23:21",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 14.02,
+   "tempo": "01:12:29"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-17 10:15:42",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 12.33,
+   "tempo": "01:05:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-16 13:42:42",
+   "titulo": "Caminhar",
+   "distancia": 4.01,
+   "tempo": "00:38:35"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-15 14:14:45",
+   "titulo": "Caminhar",
+   "distancia": 2.61,
+   "tempo": "00:26:45"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-14 19:14:40",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.58,
+   "tempo": "01:00:15"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-04-13 08:27:13",
+   "titulo": "Jogging",
+   "distancia": 11.59,
+   "tempo": "01:00:23"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-12 21:22:43",
+   "titulo": "Caminhar",
+   "distancia": 2.15,
+   "tempo": "00:19:35"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-11 17:49:09",
+   "titulo": "Caminhar",
+   "distancia": 5.51,
+   "tempo": "00:41:18"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-04-11 10:52:08",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 14.21,
+   "tempo": "01:08:51"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-10 16:33:42",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.54,
+   "tempo": "01:01:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-09 22:01:38",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:34:04"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-08 21:44:06",
+   "titulo": "Caminhar",
+   "distancia": 4.29,
+   "tempo": "00:34:17"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-07 19:11:26",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 11.35,
+   "tempo": "00:56:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-07 12:58:14",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:26:56"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-06 21:46:50",
+   "titulo": "Caminhar",
+   "distancia": 3.61,
+   "tempo": "00:44:37"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-05 18:43:24",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.02,
+   "tempo": "00:46:39"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-04 15:20:24",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.96,
+   "tempo": "00:37:14"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-03 18:06:54",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.05,
+   "tempo": "01:07:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-04-02 21:59:35",
+   "titulo": "Caminhar",
+   "distancia": 4.25,
+   "tempo": "00:47:07"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-04-02 10:47:37",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 10.92,
+   "tempo": "00:48:03"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-04-01 09:31:25",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.79,
+   "tempo": "00:56:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-31 22:24:46",
+   "titulo": "Caminhar",
+   "distancia": 1.3,
+   "tempo": "00:15:12"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-30 22:06:22",
+   "titulo": "Caminhar",
+   "distancia": 3.2,
+   "tempo": "00:34:37"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-29 08:58:11",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.01,
+   "tempo": "00:50:31"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-28 18:03:20",
+   "titulo": "Caminhar",
+   "distancia": 2.53,
+   "tempo": "00:27:04"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-03-28 10:40:59",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 15.04,
+   "tempo": "01:18:59"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-27 17:57:11",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.63,
+   "tempo": "00:57:17"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-26 21:49:09",
+   "titulo": "Caminhar",
+   "distancia": 3.78,
+   "tempo": "00:42:32"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-25 14:59:14",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.03,
+   "tempo": "00:57:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-24 09:13:19",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.82,
+   "tempo": "01:01:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-23 21:21:41",
+   "titulo": "Caminhar",
+   "distancia": 3.69,
+   "tempo": "00:36:27"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-22 09:12:33",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.83,
+   "tempo": "01:05:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-21 21:18:34",
+   "titulo": "Caminhar",
+   "distancia": 3.16,
+   "tempo": "00:31:38"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-03-21 10:45:11",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 10.15,
+   "tempo": "00:51:51"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-20 17:06:46",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.35,
+   "tempo": "01:04:01"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-19 21:58:12",
+   "titulo": "Caminhar",
+   "distancia": 2.65,
+   "tempo": "00:25:24"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-18 21:55:23",
+   "titulo": "Caminhar",
+   "distancia": 4.17,
+   "tempo": "00:35:26"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-17 08:51:56",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.01,
+   "tempo": "00:58:40"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-16 21:43:10",
+   "titulo": "Caminhar",
+   "distancia": 5.02,
+   "tempo": "00:43:19"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-15 12:00:26",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.33,
+   "tempo": "01:06:40"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-14 16:56:01",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.7,
+   "tempo": "00:48:09"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-14 12:17:44",
+   "titulo": "Caminhar",
+   "distancia": 2.78,
+   "tempo": "00:38:23"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2021-03-14 10:06:29",
+   "titulo": "Aveiro Ciclismo",
+   "distancia": 13.05,
+   "tempo": "00:58:51"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-13 21:41:41",
+   "titulo": "Caminhar",
+   "distancia": 5.04,
+   "tempo": "00:59:05"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-12 21:54:23",
+   "titulo": "Caminhar",
+   "distancia": 3.39,
+   "tempo": "00:38:57"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-03-11 15:16:19",
+   "titulo": "Jogging",
+   "distancia": 10.11,
+   "tempo": "00:55:32"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-03-10 17:09:20",
+   "titulo": "Jogging",
+   "distancia": 10.51,
+   "tempo": "00:58:32"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-10 10:39:40",
+   "titulo": "Caminhar",
+   "distancia": 2.02,
+   "tempo": "00:21:36"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-09 17:11:41",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.03,
+   "tempo": "00:56:43"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-08 18:21:21",
+   "titulo": "Caminhar",
+   "distancia": 1.67,
+   "tempo": "00:20:06"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-07 10:51:00",
+   "titulo": "Aveiro Corrida",
+   "distancia": 15.08,
+   "tempo": "01:26:31"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-06 21:19:25",
+   "titulo": "Caminhar",
+   "distancia": 2.54,
+   "tempo": "00:24:32"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-03-05 17:38:23",
+   "titulo": "Jogging",
+   "distancia": 9.06,
+   "tempo": "00:50:34"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-04 17:19:47",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.87,
+   "tempo": "00:49:18"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-04 11:19:55",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:24:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-03 09:45:18",
+   "titulo": "Caminhar",
+   "distancia": 2.84,
+   "tempo": "00:30:06"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-03-02 17:31:51",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.88,
+   "tempo": "01:07:30"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-03-02 09:54:35",
+   "titulo": "Caminhar",
+   "distancia": 2.53,
+   "tempo": "00:30:03"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-02-28 16:57:18",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.04,
+   "tempo": "00:58:58"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-27 17:35:04",
+   "titulo": "Caminhar",
+   "distancia": 1.66,
+   "tempo": "00:24:52"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-26 21:59:27",
+   "titulo": "Caminhar",
+   "distancia": 1.61,
+   "tempo": "00:22:28"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-02-26 16:59:36",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.35,
+   "tempo": "00:58:16"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-25 18:04:07",
+   "titulo": "Caminhar",
+   "distancia": 3.51,
+   "tempo": "00:57:00"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-24 19:12:30",
+   "titulo": "Caminhar",
+   "distancia": 2.81,
+   "tempo": "00:41:47"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-02-24 16:31:15",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.61,
+   "tempo": "00:49:04"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-02-23 17:04:41",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.84,
+   "tempo": "00:52:50"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-23 09:06:26",
+   "titulo": "Caminhar",
+   "distancia": 1.03,
+   "tempo": "00:21:44"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-22 18:01:48",
+   "titulo": "Jogging",
+   "distancia": 9.25,
+   "tempo": "00:52:14"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-21 18:27:15",
+   "titulo": "Jogging",
+   "distancia": 9.11,
+   "tempo": "00:54:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-21 10:18:41",
+   "titulo": "Caminhar",
+   "distancia": 1.05,
+   "tempo": "00:27:59"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-20 22:23:58",
+   "titulo": "Caminhar",
+   "distancia": 3.04,
+   "tempo": "00:37:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-19 22:07:26",
+   "titulo": "Caminhar",
+   "distancia": 2.03,
+   "tempo": "00:28:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-18 23:17:37",
+   "titulo": "Caminhar",
+   "distancia": 1.63,
+   "tempo": "00:20:46"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-17 14:41:02",
+   "titulo": "Jogging",
+   "distancia": 10.03,
+   "tempo": "00:58:46"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-16 16:54:58",
+   "titulo": "Jogging",
+   "distancia": 8.32,
+   "tempo": "00:49:56"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-16 09:22:33",
+   "titulo": "Caminhar",
+   "distancia": 1.56,
+   "tempo": "00:20:49"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-15 21:43:53",
+   "titulo": "Caminhar",
+   "distancia": 1.36,
+   "tempo": "00:22:14"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-02-15 17:20:04",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.41,
+   "tempo": "00:48:25"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-02-14 17:21:38",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.15,
+   "tempo": "01:04:53"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-14 10:57:23",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.1,
+   "tempo": "00:38:44"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-13 18:31:02",
+   "titulo": "Caminhar",
+   "distancia": 5.03,
+   "tempo": "01:00:55"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-02-12 16:34:40",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.63,
+   "tempo": "01:02:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-11 08:25:52",
+   "titulo": "Caminhar",
+   "distancia": 2.5,
+   "tempo": "00:30:51"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-10 09:41:55",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:31:40"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-09 17:29:58",
+   "titulo": "Jogging",
+   "distancia": 8.11,
+   "tempo": "00:48:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-09 09:47:58",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:28:21"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-08 17:54:13",
+   "titulo": "Jogging",
+   "distancia": 7.1,
+   "tempo": "00:39:27"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-08 10:10:31",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:32:09"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-07 16:40:41",
+   "titulo": "Jogging",
+   "distancia": 9.31,
+   "tempo": "00:54:12"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-07 10:25:08",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:29:29"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-06 17:29:03",
+   "titulo": "Jogging",
+   "distancia": 9.21,
+   "tempo": "00:53:56"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-05 22:13:09",
+   "titulo": "Caminhar",
+   "distancia": 2.01,
+   "tempo": "00:26:21"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-04 18:38:36",
+   "titulo": "Jogging",
+   "distancia": 7.15,
+   "tempo": "00:38:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-03 16:36:11",
+   "titulo": "Caminhar",
+   "distancia": 1.6,
+   "tempo": "00:25:29"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-02-03 09:25:08",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.13,
+   "tempo": "01:00:17"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-02-02 21:27:05",
+   "titulo": "Caminhar",
+   "distancia": 3.88,
+   "tempo": "00:52:47"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-02-01 18:49:42",
+   "titulo": "Jogging",
+   "distancia": 9.11,
+   "tempo": "00:50:05"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-31 21:37:01",
+   "titulo": "Caminhar",
+   "distancia": 2.51,
+   "tempo": "00:43:02"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-30 16:39:52",
+   "titulo": "Jogging",
+   "distancia": 9.06,
+   "tempo": "00:52:29"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-29 17:20:57",
+   "titulo": "Jogging",
+   "distancia": 9.07,
+   "tempo": "00:54:09"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-28 16:56:46",
+   "titulo": "Jogging",
+   "distancia": 12.64,
+   "tempo": "01:10:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-27 17:11:01",
+   "titulo": "Caminhar",
+   "distancia": 3.03,
+   "tempo": "00:38:54"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-26 17:15:52",
+   "titulo": "Jogging",
+   "distancia": 9.02,
+   "tempo": "00:50:04"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-25 20:09:46",
+   "titulo": "Jogging",
+   "distancia": 8.56,
+   "tempo": "00:48:54"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-23 18:47:30",
+   "titulo": "Jogging",
+   "distancia": 12.59,
+   "tempo": "01:12:01"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-21 13:17:39",
+   "titulo": "Caminhar",
+   "distancia": 2.52,
+   "tempo": "00:35:00"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-20 12:01:31",
+   "titulo": "Jogging",
+   "distancia": 12.56,
+   "tempo": "01:16:39"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-19 11:18:29",
+   "titulo": "Caminhar",
+   "distancia": 6,
+   "tempo": "01:00:34"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-01-17 16:29:10",
+   "titulo": "Aveiro Corrida",
+   "distancia": 12.65,
+   "tempo": "01:16:17"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-16 14:18:18",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 5.27,
+   "tempo": "01:16:38"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-01-15 15:14:57",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.15,
+   "tempo": "01:18:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-14 13:29:44",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 3.54,
+   "tempo": "00:33:52"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-01-13 11:59:46",
+   "titulo": "Aveiro Corrida",
+   "distancia": 13.16,
+   "tempo": "01:17:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-12 23:24:15",
+   "titulo": "Caminhar",
+   "distancia": 3.31,
+   "tempo": "00:32:37"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-11 14:17:19",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 5.37,
+   "tempo": "00:48:30"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-10 15:46:28",
+   "titulo": "Jogging",
+   "distancia": 12.52,
+   "tempo": "01:08:19"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-09 16:41:13",
+   "titulo": "Caminhar",
+   "distancia": 5.02,
+   "tempo": "00:51:12"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-01-08 19:09:05",
+   "titulo": "Ílhavo Corrida",
+   "distancia": 9.28,
+   "tempo": "00:53:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-07 23:18:15",
+   "titulo": "Caminhar",
+   "distancia": 3.25,
+   "tempo": "00:32:22"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2021-01-06 08:55:58",
+   "titulo": "Jogging",
+   "distancia": 12.9,
+   "tempo": "01:12:52"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-05 12:45:42",
+   "titulo": "Caminhar",
+   "distancia": 4.4,
+   "tempo": "00:40:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-04 17:00:14",
+   "titulo": "Caminhar",
+   "distancia": 2.03,
+   "tempo": "00:25:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-01-03 16:32:31",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.55,
+   "tempo": "01:13:29"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-03 11:20:56",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 2.21,
+   "tempo": "00:39:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2021-01-02 16:24:45",
+   "titulo": "Caminhar",
+   "distancia": 6.25,
+   "tempo": "01:00:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2021-01-01 08:57:54",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.44,
+   "tempo": "00:59:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-31 10:20:02",
+   "titulo": "Caminhar",
+   "distancia": 4.02,
+   "tempo": "00:40:28"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2020-12-30 10:03:36",
+   "titulo": "Jogging",
+   "distancia": 6.21,
+   "tempo": "00:35:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-29 09:03:49",
+   "titulo": "Caminhar",
+   "distancia": 5.01,
+   "tempo": "00:56:08"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-12-28 14:43:28",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.16,
+   "tempo": "00:40:03"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-27 11:32:54",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.3,
+   "tempo": "00:22:06"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-26 15:17:59",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.8,
+   "tempo": "00:59:32"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-12-25 09:07:18",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.82,
+   "tempo": "00:40:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-24 17:31:00",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:33:17"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-24 10:55:32",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.14,
+   "tempo": "00:21:21"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-12-23 15:35:54",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.4,
+   "tempo": "00:59:20"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2020-12-20 17:32:59",
+   "titulo": "Jogging",
+   "distancia": 6.77,
+   "tempo": "00:42:20"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-20 12:13:41",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 1.15,
+   "tempo": "00:21:08"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-18 23:20:21",
+   "titulo": "Caminhar indoor ",
+   "distancia": 3.09,
+   "tempo": "00:31:23"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-12-17 16:30:45",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.36,
+   "tempo": "00:36:16"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-16 23:01:23",
+   "titulo": "Caminhar indoor ",
+   "distancia": 2.02,
+   "tempo": "00:20:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-12-15 15:20:29",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.12,
+   "tempo": "00:36:26"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-14 23:24:28",
+   "titulo": "Caminhar",
+   "distancia": 3.01,
+   "tempo": "00:31:36"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2020-12-13 17:25:43",
+   "titulo": "Jogging",
+   "distancia": 6.67,
+   "tempo": "00:41:11"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-12 23:14:22",
+   "titulo": "Caminhar",
+   "distancia": 3.27,
+   "tempo": "00:33:18"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2020-12-11 16:12:03",
+   "titulo": "Jogging",
+   "distancia": 6.57,
+   "tempo": "00:39:25"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-10 22:56:34",
+   "titulo": "Caminhar indoor ",
+   "distancia": 2.58,
+   "tempo": "00:25:43"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-09 23:03:09",
+   "titulo": "Caminhar indoor ",
+   "distancia": 2.59,
+   "tempo": "00:25:16"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-08 18:38:05",
+   "titulo": "Caminhar indoor ",
+   "distancia": 5.03,
+   "tempo": "00:50:33"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-12-07 16:54:37",
+   "titulo": "Aveiro Corrida",
+   "distancia": 7.39,
+   "tempo": "00:46:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-06 17:21:16",
+   "titulo": "Caminhar indoor ",
+   "distancia": 5.22,
+   "tempo": "00:50:26"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-12-05 07:42:21",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.2,
+   "tempo": "00:35:44"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-04 22:53:20",
+   "titulo": "Caminhar indoor",
+   "distancia": 3.52,
+   "tempo": "00:34:38"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-12-03 13:15:12",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.38,
+   "tempo": "00:41:39"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-12-02 10:01:43",
+   "titulo": "Aveiro Corrida",
+   "distancia": 7.74,
+   "tempo": "00:47:02"
+ },
+ {
+   "tipo": "Caminhada casual",
+   "data": "2020-12-01 10:33:51",
+   "titulo": "Aveiro Caminhar",
+   "distancia": 4.53,
+   "tempo": "01:16:58"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-10-11 10:13:34",
+   "titulo": "Aveiro Caminhada",
+   "distancia": 2.81,
+   "tempo": "00:47:01"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-09-20 16:41:45",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.35,
+   "tempo": "00:35:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-09-05 11:05:24",
+   "titulo": "Águeda walk",
+   "distancia": 3.36,
+   "tempo": "01:43:55"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-09-03 16:05:38",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.52,
+   "tempo": "00:37:51"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-08-29 17:39:43",
+   "titulo": "Aveiro walk",
+   "distancia": 1.06,
+   "tempo": "00:23:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-08-27 15:52:34",
+   "titulo": "Aveiro Corrida",
+   "distancia": 4.9,
+   "tempo": "00:28:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-08-26 09:51:41",
+   "titulo": "Aveiro Corrida",
+   "distancia": 9.54,
+   "tempo": "00:55:28"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-08-24 09:51:16",
+   "titulo": "Aveiro Corrida",
+   "distancia": 9.01,
+   "tempo": "00:51:11"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-08-22 10:05:22",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.9,
+   "tempo": "00:49:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-08-20 15:42:57",
+   "titulo": "Aveiro Corrida",
+   "distancia": 11.01,
+   "tempo": "01:04:56"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-08-19 17:22:56",
+   "titulo": "Aveiro bycicle ride ",
+   "distancia": 21.1,
+   "tempo": "01:34:16"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-08-19 10:56:45",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.88,
+   "tempo": "00:40:06"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-08-18 13:28:07",
+   "titulo": "Aveiro walk",
+   "distancia": 4.94,
+   "tempo": "00:47:44"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-08-17 16:42:05",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.19,
+   "tempo": "00:44:53"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-08-16 09:24:05",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.01,
+   "tempo": "00:44:01"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-08-15 18:57:11",
+   "titulo": "Aveiro walk",
+   "distancia": 1.7,
+   "tempo": "00:35:45"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-08-15 14:25:31",
+   "titulo": "Torres Vedras walk",
+   "distancia": 3.06,
+   "tempo": "00:33:42"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-08-13 18:14:50",
+   "titulo": "Aveiro bycicle ride ",
+   "distancia": 11.85,
+   "tempo": "01:08:10"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-08-13 10:14:09",
+   "titulo": "Aveiro walk",
+   "distancia": 1.49,
+   "tempo": "00:21:35"
+ },
+ {
+   "tipo": "Caminhada casual",
+   "data": "2020-08-12 18:30:17",
+   "titulo": "Aveiro walk",
+   "distancia": 3.1,
+   "tempo": "00:56:10"
+ },
+ {
+   "tipo": "Caminhada casual",
+   "data": "2020-08-11 15:45:57",
+   "titulo": "Sever do Vouga course",
+   "distancia": 4.82,
+   "tempo": "02:06:04"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2020-08-10 18:43:53",
+   "titulo": "Aveiro walking",
+   "distancia": 2.65,
+   "tempo": "00:52:55"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-08-10 10:25:09",
+   "titulo": "Aveiro bycicle ride ",
+   "distancia": 8.29,
+   "tempo": "00:41:25"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-08-08 17:50:07",
+   "titulo": "Aveiro bycicle ride ",
+   "distancia": 15.86,
+   "tempo": "01:28:22"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-08-08 10:51:18",
+   "titulo": "Aveiro bycicle ride ",
+   "distancia": 11,
+   "tempo": "00:56:39"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-08-06 18:22:58",
+   "titulo": "Aveiro bicicleta ",
+   "distancia": 8.4,
+   "tempo": "00:39:39"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-08-03 10:08:41",
+   "titulo": "Aveiro bicicleta ",
+   "distancia": 14.72,
+   "tempo": "01:19:46"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-08-01 18:15:29",
+   "titulo": "Aveiro bicicleta ",
+   "distancia": 10.42,
+   "tempo": "00:44:14"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-07-29 17:27:35",
+   "titulo": "Aveiro Corrida",
+   "distancia": 5.65,
+   "tempo": "00:31:41"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-07-26 17:56:21",
+   "titulo": "Aveiro bicicleta ",
+   "distancia": 9.79,
+   "tempo": "00:52:09"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-07-25 18:25:40",
+   "titulo": "Aveiro bicicleta ",
+   "distancia": 9.29,
+   "tempo": "00:44:12"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-07-23 09:05:08",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.01,
+   "tempo": "00:32:04"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-07-19 17:23:22",
+   "titulo": "Aveiro Passeio de bicicleta ",
+   "distancia": 13.69,
+   "tempo": "01:25:01"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2020-07-12 18:32:15",
+   "titulo": "Aveiro passeio bicicleta ",
+   "distancia": 9.05,
+   "tempo": "00:55:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-07-03 09:03:29",
+   "titulo": "Aveiro Corrida",
+   "distancia": 7.26,
+   "tempo": "00:38:41"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-28 09:51:40",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.83,
+   "tempo": "00:50:50"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-26 09:16:37",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.27,
+   "tempo": "00:56:18"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-23 17:04:50",
+   "titulo": "Aveiro Corrida",
+   "distancia": 9.05,
+   "tempo": "00:51:35"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-21 17:45:50",
+   "titulo": "Aveiro Corrida",
+   "distancia": 10.2,
+   "tempo": "01:01:47"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-19 16:53:36",
+   "titulo": "Aveiro Corrida",
+   "distancia": 4.51,
+   "tempo": "00:26:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-18 11:02:24",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.01,
+   "tempo": "00:46:19"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-16 16:36:10",
+   "titulo": "Aveiro Corrida",
+   "distancia": 7.58,
+   "tempo": "00:42:03"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-14 17:02:18",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.1,
+   "tempo": "00:44:28"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-13 16:50:05",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.01,
+   "tempo": "00:45:24"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-11 17:08:06",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.6,
+   "tempo": "00:38:58"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-10 09:48:19",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.11,
+   "tempo": "00:47:46"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-08 16:26:18",
+   "titulo": "Aveiro Corrida",
+   "distancia": 7.62,
+   "tempo": "00:45:51"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-07 16:46:34",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.35,
+   "tempo": "00:37:32"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-06 10:00:39",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8,
+   "tempo": "00:44:57"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-06-02 16:52:41",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.14,
+   "tempo": "00:34:48"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-05-28 07:30:36",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.12,
+   "tempo": "00:35:39"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-05-24 18:44:45",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.01,
+   "tempo": "00:50:42"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-05-21 16:47:05",
+   "titulo": "Aveiro Corrida",
+   "distancia": 3.06,
+   "tempo": "00:19:57"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-05-21 07:15:14",
+   "titulo": "Aveiro Corrida",
+   "distancia": 8.01,
+   "tempo": "00:50:37"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-05-19 07:10:40",
+   "titulo": "Aveiro Corrida",
+   "distancia": 6.87,
+   "tempo": "00:41:08"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-05-12 17:00:03",
+   "titulo": "Aveiro Corrida",
+   "distancia": 2.46,
+   "tempo": "00:15:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-01-04 10:33:56",
+   "titulo": "Aveiro Correr",
+   "distancia": 8.01,
+   "tempo": "00:45:16"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-01-02 16:47:51",
+   "titulo": "Aveiro Correr",
+   "distancia": 8.01,
+   "tempo": "00:45:44"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2020-01-01 11:28:14",
+   "titulo": "Aveiro Correr",
+   "distancia": 6.16,
+   "tempo": "00:35:06"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-12-30 16:44:56",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:27:47"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-11-04 14:11:35",
+   "titulo": "Correr",
+   "distancia": 5.02,
+   "tempo": "00:27:29"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-10-25 11:47:51",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:37:33"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-10-23 12:36:13",
+   "titulo": "Aveiro Correr",
+   "distancia": 8.01,
+   "tempo": "00:43:52"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-10-21 17:52:31",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:26:21"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-09-28 07:55:13",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:34:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-09-25 06:35:15",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.22,
+   "tempo": "00:37:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-09-22 18:17:13",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:37:06"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-09-19 06:36:44",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.02,
+   "tempo": "00:35:27"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-09-17 06:34:36",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:27:42"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-09-13 06:33:41",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:35:27"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-09-06 06:43:11",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:35:53"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-09-04 06:24:20",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:35:08"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-08-30 09:18:42",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:34:59"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-08-24 10:33:00",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:36:38"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-08-06 15:50:01",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:37:03"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-08-04 19:20:09",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:38:31"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-08-02 09:44:01",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.02,
+   "tempo": "00:37:33"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-07-31 09:27:27",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:37:36"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-07-29 10:22:09",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.02,
+   "tempo": "00:39:45"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-07-13 11:05:05",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:39:54"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-07-10 09:48:26",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:37:33"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-27 12:25:00",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:40:39"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-22 09:26:08",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:38:29"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-20 18:26:03",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.02,
+   "tempo": "00:42:24"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-15 09:55:05",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:39:35"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-13 12:57:42",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:40:47"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-10 09:33:09",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.23,
+   "tempo": "00:28:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-07 09:01:06",
+   "titulo": "Aveiro Correr",
+   "distancia": 7.01,
+   "tempo": "00:38:48"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-02 18:59:04",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.19,
+   "tempo": "00:30:07"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-06-01 08:42:53",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.2,
+   "tempo": "00:30:28"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-05-30 09:10:00",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:29:59"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-05-09 23:09:45",
+   "titulo": "Correr",
+   "distancia": 5.06,
+   "tempo": "00:30:15"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-04-28 11:06:26",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:28:02"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-04-11 08:30:02",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:28:12"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-04-04 09:17:56",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:28:51"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-03-30 16:52:00",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:29:52"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-03-28 13:19:53",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:31:21"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-03-23 17:11:14",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:32:05"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-03-21 12:43:02",
+   "titulo": "Aveiro Correr",
+   "distancia": 5.01,
+   "tempo": "00:31:52"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2019-03-16 17:29:25",
+   "titulo": "Aveiro - Bicicleta ",
+   "distancia": 7.18,
+   "tempo": "00:48:53"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2019-03-14 13:09:07",
+   "titulo": "Aveiro - Correr",
+   "distancia": 5.01,
+   "tempo": "00:31:51"
+ },
+ {
+   "tipo": "Ciclismo",
+   "data": "2018-09-15 16:55:01",
+   "titulo": "Aveiro bicicleta ",
+   "distancia": 12.45,
+   "tempo": "01:14:49"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2018-09-11 16:55:59",
+   "titulo": "Correr",
+   "distancia": 5.14,
+   "tempo": "00:32:10"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2018-09-09 18:22:39",
+   "titulo": "Correr",
+   "distancia": 4.73,
+   "tempo": "00:30:12"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2018-09-06 16:46:23",
+   "titulo": "Correr",
+   "distancia": 3.51,
+   "tempo": "00:21:37"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2018-08-30 18:27:17",
+   "titulo": "Correr",
+   "distancia": 4.45,
+   "tempo": "00:30:01"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2018-08-27 17:44:30",
+   "titulo": "Aveiro Correr",
+   "distancia": 3.04,
+   "tempo": "00:19:04"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2018-08-26 18:12:54",
+   "titulo": "Correr",
+   "distancia": 2.53,
+   "tempo": "00:16:30"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2018-08-25 17:54:22",
+   "titulo": "Aveiro Correr",
+   "distancia": 2.64,
+   "tempo": "00:15:15"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2018-01-21 18:14:54",
+   "titulo": "Correr",
+   "distancia": 3.06,
+   "tempo": "00:30:36"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-10-29 08:13:13",
+   "titulo": "Póvoa do Paço Correr",
+   "distancia": 5.27,
+   "tempo": "00:35:34"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2017-09-17 17:53:56",
+   "titulo": "Correr",
+   "distancia": 5.16,
+   "tempo": "00:31:55"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2017-09-10 17:20:17",
+   "titulo": "Correr",
+   "distancia": 5.01,
+   "tempo": "00:33:18"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-09-01 07:10:56",
+   "titulo": "Cabeço Correr",
+   "distancia": 5.81,
+   "tempo": "00:39:32"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-08-29 18:13:52",
+   "titulo": "Cabeço Correr",
+   "distancia": 8.33,
+   "tempo": "01:01:30"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-08-27 18:49:33",
+   "titulo": "Cabeço Correr",
+   "distancia": 6.84,
+   "tempo": "00:50:56"
+ },
+ {
+   "tipo": "Jogging",
+   "data": "2017-08-25 15:36:30",
+   "titulo": "Cabeço Caminhar",
+   "distancia": 3.2,
+   "tempo": "00:30:43"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-08-24 18:33:08",
+   "titulo": "Cabeço Correr",
+   "distancia": 6.11,
+   "tempo": "00:43:20"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-08-23 07:03:48",
+   "titulo": "Cabeço Correr",
+   "distancia": 5.74,
+   "tempo": "00:39:18"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-08-15 07:33:51",
+   "titulo": "Armação de Pêra Correr",
+   "distancia": 3.17,
+   "tempo": "00:22:53"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2017-08-11 07:21:12",
+   "titulo": "Armação de Pêra Correr",
+   "distancia": 3.1,
+   "tempo": "00:27:34"
+ },
+ {
+   "tipo": "Caminhar",
+   "data": "2017-08-09 07:22:35",
+   "titulo": "Armação de Pêra Correr",
+   "distancia": 2.79,
+   "tempo": "00:27:05"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-06-15 17:25:00",
+   "titulo": "Cabeço Correr",
+   "distancia": 2.76,
+   "tempo": "00:43:00"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2017-06-08 11:06:38",
+   "titulo": "Running",
+   "distancia": 4.04,
+   "tempo": "00:31:57"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2016-04-25 17:36:00",
+   "titulo": "Running",
+   "distancia": 3.04,
+   "tempo": "00:20:04"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2016-02-18 00:51:40",
+   "titulo": "Running",
+   "distancia": 3.14,
+   "tempo": "00:19:07"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-10-01 06:34:47",
+   "titulo": "Cabeço Running",
+   "distancia": 4.52,
+   "tempo": "00:23:48"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-09-29 06:32:40",
+   "titulo": "Cabeço Running",
+   "distancia": 4.52,
+   "tempo": "00:24:22"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-09-08 06:58:20",
+   "titulo": "Cabeço Running",
+   "distancia": 5.65,
+   "tempo": "00:31:42"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-09-03 06:54:53",
+   "titulo": "Cabeço Running",
+   "distancia": 5.6,
+   "tempo": "00:31:46"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-08-31 06:53:11",
+   "titulo": "Aveiro Running",
+   "distancia": 5.64,
+   "tempo": "00:30:45"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-08-25 08:18:29",
+   "titulo": "Cabeço Running",
+   "distancia": 5.64,
+   "tempo": "00:32:26"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-08-22 09:06:30",
+   "titulo": "Cabeço Running",
+   "distancia": 7.41,
+   "tempo": "00:56:51"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-08-20 08:01:41",
+   "titulo": "Cabeço Running",
+   "distancia": 4.06,
+   "tempo": "00:23:13"
+ },
+ {
+   "tipo": "Corrida",
+   "data": "2015-08-18 07:53:26",
+   "titulo": "Cabeço Running",
+   "distancia": 4.09,
+   "tempo": "00:23:32"
+ }
+]
